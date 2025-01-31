@@ -1,7 +1,7 @@
 /*
 
 file name:Chapter2exercise5.cpp
-GitHub URL
+GitHub URL: https://github.com/Yaqoob7803/AveragesOfValues/blob/main/Chapter2Exercise5.cpp
 programmer:Yaqoob Nagi
 Date:January 2025
 Requirements:
